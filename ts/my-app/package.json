@@ -1,0 +1,45 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "main": "vite index.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.10",
+    "@mui/material": "^5.14.10",
+    "@react-spring/web": "^9.7.5",
+    "chart.js": "^4.4.7",
+    "draft-js": "^0.11.7",
+    "firebase": "^10.14.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.9.41",
+    "@types/draft-js": "^0.11.18",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/react-draft-wysiwyg": "^1.13.8",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.33.2",
+    "typescript": "^5.3.3",
+    "vite": "^4.4.9"
+  }
+}
