@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '@components': '/src/components', // ✅ No invalid characters
+      '@components': '/src/components', 
     },
   },
   server: {
